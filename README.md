@@ -30,5 +30,6 @@ https://drive.google.com/file/d/13FZdO7kVMWs_XbJ-T_i5-831CreMObPR/view?usp=shari
 
 # Results:
 2 classes masked and not_masked can be detected with over 90 percent accuracy in various scenarios
+
 ![image](https://user-images.githubusercontent.com/58310295/134740812-1416af64-1ba8-4588-82c5-873be5f6991a.png)
 
