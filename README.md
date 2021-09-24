@@ -2,9 +2,11 @@
 YOLOv3
 
 YOLOv3 is used to complete this project using AlexeyAB Github repo
+
 https://github.com/AlexeyAB/darknet.git
 
 Following dataset from Kaggle is used:
+
 https://www.kaggle.com/andrewmvd/face-mask-detection
 
 LabelImg was used to label the images using YOLO format.
@@ -23,9 +25,11 @@ classes=2 (In 3 yolo layers)
 layers=21 (In 3 convolutional Layers preceding yolo layers)
 
 Darknet Pre-trained weights can be get from the following links
+
 https://pjreddie.com/media/files/darknet53.conv.74
 
 Weights file of the mask_detection model can be accessed with the following link:
+
 https://drive.google.com/file/d/13FZdO7kVMWs_XbJ-T_i5-831CreMObPR/view?usp=sharing
 
 # Results:
